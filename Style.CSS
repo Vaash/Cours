@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+
+#line1 {
+    align-items: center;
+    display: flex;
+}
+
+.signInForm {
+    align-items: center;
+    border: 5px solid blue;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px black;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+    width: 350px;
+    height: 300px;
+    display: flex;
+    position: static;
+}
+
+footer {
+    text-align: center;
+}
